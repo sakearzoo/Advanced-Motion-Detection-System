@@ -88,5 +88,6 @@ ffserver -f /etc/ffserver.conf &amp; ffmpeg -v verbose -r 5 -s 600x480 -f video4
 ### Run the main script
 `$sudo ./amdsv2.py`
 
+
 ------------
 
