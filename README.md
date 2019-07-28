@@ -11,7 +11,7 @@ Motion detection system is the first essential process in the extraction of info
 
 The RFID is used to detect if the user is authorized by TAGS. If the user is authorised then the script will pause and hence no notification will be send. The entry and exit of the person will be LOGGED for further reference. If the owner wants to view the live video then also he/she can watch directly via browser/app.
 
-####PRE-REQUISITE:
+#### PRE-REQUISITE:
 
 `$sudo apt-get update`
 `$sudo apt-get upgrade`
@@ -28,7 +28,7 @@ AuthPass=YOUR GMAIL PASSWORD
 UseSTARTTLS=YES
 UseTLS=YES
 ````
-######Optional lines:
+###### Optional lines:
 `$rewriteDomain=your.domain`
 Specify this if you would like the outgoing emails to appear to be sent from your.domain (instead of from [gmail.com](http://gmail.com/)).
 `FromLineOverride=YES`
@@ -42,14 +42,14 @@ Add the following entry to the end of the file:
 Open the `raspi-config` tool from the Terminal:
 Select Enable camera and hit Enter, then go to Finish and you&#39;ll be prompted to reboot.
 
-####Configure raspberry pi with Dropbox
+#### Configure raspberry pi with Dropbox
 Download and uncompress the Python SDK. To install the dropbox module and any dependencies, run the setup script (you may need sudo).
 `$python setup.py install`
 
 Alternatively, you can use pip to automatically download and install the module.
 `$pip install dropbox`
 
-####How to use Dropbox with Raspberry Pi
+#### How to use Dropbox with Raspberry Pi
 
 You must then create an &quot;App&quot; on the Dropbox server:
 https://www.dropbox.com/developers/apps/create
@@ -64,11 +64,11 @@ The Dropbox Server will then present you a web page filled with a variety of inf
 **App key**
 **App secret**
 
-######One more step to test:
+###### One more step to test:
 Test the Dropbox program on the Raspberry Pi by uploading a file (anything will do).
 
 
-####Live video script:
+#### Live video script:
 
 To watch live we just need to paste this piece of code into the terminal of the raspberry pi:
 
@@ -80,7 +80,7 @@ ffserver -f /etc/ffserver.conf &amp; ffmpeg -v verbose -r 5 -s 600x480 -f video4
 
 `localhost:9090/test.mjpg`
 
-#####Next make the Python file executable and then you can run it:
+##### Next make the Python file executable and then you can run it:
 `chmod +x pirtest.py`
 
 
