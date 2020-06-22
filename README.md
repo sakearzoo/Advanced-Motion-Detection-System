@@ -1,5 +1,5 @@
 # **Advanced Motion Detection System**
-![](https://img.shields.io/badge/Release-V1.0.0-blue.svg)  ![](https://img.shields.io/badge/Build-Stable-green.svg) ![](https://img.shields.io/badge/License-MIT-red.svg) ![](https://img.shields.io/badge/By-Sheikh%20Nawab%20Arzoo-red.svg?style=social&logo=appveyor)
+![](https://img.shields.io/badge/Release-V1.0.0-blue.svg)  ![](https://img.shields.io/badge/Build-Stable-green.svg) ![](https://img.shields.io/badge/License-MIT-red.svg) ![](https://img.shields.io/badge/By-Sheikh%20Nawab%20Arzoo,%20Abhishek%20Sarkar-red.svg?style=social&logo=appveyor)
 
 ------------
 
