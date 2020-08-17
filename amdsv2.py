@@ -1,6 +1,7 @@
 #!/usr/bin/python
 #https://github.com/sakearzoo
-#By Sheikh Nawab Arzoo
+#https://github.com/abhisheksarkar30
+#By Sheikh Nawab Arzoo & Abhishek Sarkar
 import RPi.GPIO as GPIO
 import time
 import picamera

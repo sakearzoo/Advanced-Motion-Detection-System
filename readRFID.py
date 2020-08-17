@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #https://github.com/sakearzoo
-#By Sheikh Nawab Arzoo
+#https://github.com/abhisheksarkar30
+#By Sheikh Nawab Arzoo & Abhishek Sarkar
 import sys
 sys.path.insert(0, "/home/pi/pi-rc522/ChipReader")
 import RFID

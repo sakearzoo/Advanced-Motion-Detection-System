@@ -2,8 +2,12 @@
 ![](https://img.shields.io/badge/Release-V1.0.0-blue.svg)  ![](https://img.shields.io/badge/Build-Stable-green.svg) ![](https://img.shields.io/badge/License-MIT-red.svg) ![](https://img.shields.io/badge/By-Sheikh%20Nawab%20Arzoo,%20Abhishek%20Sarkar-red.svg?style=social&logo=appveyor)
 
 ------------
+Let's connect 👨‍💻 and forge the future together.😁✌
 
+**Show your support a :star: is all this repo needs** :smile:
+<br><br>
 
+## Introduction
 It&#39;s a motion detection system refers to the capability of the surveillance system to detect motion and capture the events. Motion detection is usually a software - hardware based monitoring algorithm which, when it detects motions will signal the surveillance camera to begin capturing the event. Also called activity detection. An advanced motion detection surveillance system can also send the mail and sms notification as well as video clip will be uploaded to internet alternatively we can also live stream the current situation and have a RFID based system which keeps a track of the authorised person entering in the area hence camera will not be activated and no false notification will be send.
 
 ## **How it works ?**

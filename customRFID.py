@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
-#https://github.com/sakearzoo
-#By Sheikh Nawab Arzoo
+#https://github.com/abhisheksarkar30
+#By Abhishek Sarkar
 
 import RPi.GPIO as GPIO
 import MFRC522
